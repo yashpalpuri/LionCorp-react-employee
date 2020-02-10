@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "name": "Freddie",
+      "email": "freddie@queen.com",
+      "password": "admin"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "firstName": "Kaylin",
+      "lastName": "Reynolds",
+      "salary": "304.97",
+      "joinDate": "2019-11-24T23:35:29.665Z",
+      "dept": "Solutions"
+    },
+    {
+      "id": 2,
+      "firstName": "Lester",
+      "lastName": "Luettgen",
+      "salary": "180.70",
+      "joinDate": "2019-11-25T01:33:06.447Z",
+      "dept": "Marketing"
+    },
+    {
+      "id": 3,
+      "firstName": "John",
+      "lastName": "Deo",
+      "salary": 1243,
+      "dept": "Sample"
+    },
+    {
+      "id": 4,
+      "firstName": "Destini",
+      "lastName": "Schiller",
+      "salary": "233.35",
+      "joinDate": "2019-11-24T17:26:30.230Z",
+      "dept": "Security"
+    },
+    {
+      "id": 5,
+      "firstName": "Maxime",
+      "lastName": "White",
+      "salary": "205.00",
+      "joinDate": "2019-11-25T01:04:08.392Z",
+      "dept": "Metrics"
+    },
+    {
+      "id": 6,
+      "firstName": "Phoebe",
+      "lastName": "Schinner",
+      "salary": "610.43",
+      "joinDate": "2019-11-25T08:25:39.767Z",
+      "dept": "Group"
+    },
+    {
+      "id": 7,
+      "firstName": "Kendrick",
+      "lastName": "Reichert",
+      "salary": "267.79",
+      "joinDate": "2019-11-25T05:43:28.035Z",
+      "dept": "Branding"
+    },
+    {
+      "id": 8,
+      "firstName": "Leone",
+      "lastName": "Fadel",
+      "salary": "647.63",
+      "joinDate": "2019-11-25T06:35:32.983Z",
+      "dept": "Assurance"
+    },
+    {
+      "id": 9,
+      "firstName": "Owen",
+      "lastName": "Franecki",
+      "salary": "553.31",
+      "joinDate": "2019-11-25T10:50:03.379Z",
+      "dept": "Communications"
+    },
+    {
+      "id": 10,
+      "firstName": "Dawson",
+      "lastName": "Altenwerth",
+      "salary": "843.22",
+      "joinDate": "2019-11-25T09:08:10.487Z",
+      "dept": "Response"
+    }
+  ]
+}
